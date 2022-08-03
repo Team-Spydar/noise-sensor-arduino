@@ -1,3 +1,5 @@
+// variables
+
 // setup
 
 // loop
