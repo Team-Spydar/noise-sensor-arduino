@@ -6,9 +6,9 @@ int noisy_sounds;
 
 // setup
 void setup(){
-pinMode (noise_sensor, INPUT);
-pinMode (BUZZER, OUTPUT);
-Serial.begin(9600);
+    pinMode (noise_sensor, INPUT);
+    pinMode (BUZZER, OUTPUT);
+    Serial.begin(9600);
 }
 // loop
 
