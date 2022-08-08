@@ -14,12 +14,7 @@ void setup(){
 
 void loop(){
 
-    discussion_sounds= analogRead(noisy_sounds);
-if(discussion_sounds>300);
-digitalWrite(BUZZER, HIGH);
-delay(1000);
-} else{
-digitalWrite(BUZZER,LOW);
-delay(1000);
+    
 }
 
+// functions
